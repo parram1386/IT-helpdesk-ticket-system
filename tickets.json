@@ -1,0 +1,18 @@
+[
+  {
+    "ticketId": "434852a9-bef5-4303-9be4-a8c6943163d4",
+    "createdAt": "2026-10-02T15:59:48.521Z",
+    "ticketTitle": "Printer not working",
+    "ticketCategory": "Hardware",
+    "ticketPriority": "High",
+    "ticketStatus": "In-Progress"
+  },
+  {
+    "ticketId": "d8de63b1-f35e-4ea7-8a84-97ee91064527",
+    "createdAt": "2026-10-02T15:59:52.943Z",
+    "ticketTitle": "Printer not working",
+    "ticketCategory": "Hardware",
+    "ticketPriority": "High",
+    "ticketStatus": "Open"
+  }
+]
