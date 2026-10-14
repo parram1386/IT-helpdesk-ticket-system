@@ -1,18 +1,47 @@
 [
   {
-    "ticketId": "434852a9-bef5-4303-9be4-a8c6943163d4",
-    "createdAt": "2026-10-02T15:59:48.521Z",
-    "ticketTitle": "Printer not working",
-    "ticketCategory": "Hardware",
-    "ticketPriority": "High",
-    "ticketStatus": "In-Progress"
-  },
-  {
     "ticketId": "d8de63b1-f35e-4ea7-8a84-97ee91064527",
     "createdAt": "2026-10-02T15:59:52.943Z",
     "ticketTitle": "Printer not working",
     "ticketCategory": "Hardware",
     "ticketPriority": "High",
     "ticketStatus": "Open"
+  },
+  {
+    "ticketId": "b1066c52-2177-4a4b-9b98-d9421be2a412",
+    "createdAt": "2026-10-05T06:45:22.592Z",
+    "ticketTitle": "Mouse broken",
+    "ticketCategory": "Hardware",
+    "ticketPriority": "Medium",
+    "ticketStatus": "Open"
+  },
+  {
+    "ticketId": "b8d286af-2df1-45ee-a46c-0cd7f83afcca",
+    "createdAt": "2026-10-05T08:36:12.132Z",
+    "ticketTitle": "Test Printer",
+    "ticketCategory": "Hardware",
+    "ticketPriority": "High",
+    "ticketStatus": "Closed"
+  },
+  {
+    "message": "Ticket received successfully",
+    "ticket": {
+      "title": "Mouse Broke",
+      "priority": "Low",
+      "status": "In-Progress"
+    }
+  },
+  {
+    "message": "Ticket received successfully",
+    "ticket": {
+      "title": "Mouse Broke",
+      "priority": "Low",
+      "status": "In-Progress"
+    }
   }
-]
+]{
+  "ticketTitle": "   ",
+  "ticketCategory": "Hardware",
+  "ticketPriority": "High",
+  "ticketStatus": "Open"
+}
